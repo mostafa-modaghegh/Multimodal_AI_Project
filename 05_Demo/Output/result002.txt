@@ -1,0 +1,8 @@
+Image:
+plate002.jpg
+
+Ground Truth:
+41 ن 691 ایران 44
+
+Prediction:
+99 س 699 ایران 69

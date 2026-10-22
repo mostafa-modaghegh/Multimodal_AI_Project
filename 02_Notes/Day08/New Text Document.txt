@@ -1,0 +1,56 @@
+[
+  {
+    "image": "images/plate001.jpg",
+    "metadata": {
+      "vehicle": "KIA",
+      "color": "Red",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A red Kia car parked in an apartment building parking lot with a visible license plate."
+    },
+    "conversations": []
+  },
+  {
+    "image": "images/plate002.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "color": "Blue",
+      "plate_city": "Esfahan",
+      "plate_visible": true,
+      "description": "A blue Pride car viewed from the front and parked near a boulevard."
+    },
+    "conversations": []
+  },
+  {
+    "image": "images/plate003.jpg",
+    "metadata": {
+      "vehicle": "RIRA",
+      "color": "White",
+      "plate_city": "Mazandaran",
+      "plate_visible": true,
+      "description": "A white RIRA car parked in front of a house with another vehicle visible in the background."
+    },
+    "conversations": []
+  },
+  {
+    "image": "images/plate004.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A white Pride car parked in a public parking lot with a visible license plate."
+    },
+    "conversations": []
+  },
+  {
+    "image": "images/plate005.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "color": "White",
+      "plate_city": "Yazd",
+      "plate_visible": true,
+      "description": "A white Pride car parked on the side of a street."
+    },
+    "conversations": []
+  },

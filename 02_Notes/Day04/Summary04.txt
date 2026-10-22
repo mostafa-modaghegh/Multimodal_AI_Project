@@ -1,0 +1,9 @@
+خلاصه روز چهارم (Memory Summary)
+محیط Conda و Python 3.11 برای پروژه VLM نهایی شد.
+PyTorch با پشتیبانی CUDA 12.8 نصب و روی Quadro T1000 تأیید شد.
+ساختار Repositoryهای Hugging Face به‌صورت عملی بررسی شد.
+تفاوت بین Config، Weights، Processor و Tokenizer به‌طور کامل روشن شد.
+فایل config.json خط‌به‌خط تحلیل شد.
+ارتباط Vision Encoder → Projector → LLM با مقادیر واقعی مدل Qwen2.5-VL درک شد.
+مفهوم hidden_size، num_hidden_layers، num_attention_heads و intermediate_size بررسی شد.
+اثر افزایش hidden_size بر تعداد پارامترها، حافظه و سرعت اجرا فهمیده شد.

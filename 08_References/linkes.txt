@@ -1,0 +1,3 @@
+CLIP: Connecting text and images
+OpenAI گزارش کرد که CLIP می‌توانست بعد از pretraining به شکل zero-shot برای طیف بزرگی از taskها استفاده شود.
+https://openai.com/index/clip/?utm_source=chatgpt.com

@@ -1,0 +1,2 @@
+روز ششم:
+ساختار واقعی اجرای VLM بررسی شد. ورودی‌های Processor، نقش Vision Encoder و Projector، تولید Token به Token توسط LLM و عملکرد generate مطالعه شدند. اثر max_new_tokens، do_sample و temperature به صورت عملی روی مدل SmolVLM آزمایش شد. همچنین مفاهیم Hallucination و Repetition در خروجی مدل بررسی شدند.

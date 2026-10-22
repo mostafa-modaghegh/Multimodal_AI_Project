@@ -1,0 +1,8 @@
+Image:
+plate003.jpg
+
+Ground Truth:
+55 ج 141 ایران 33
+
+Prediction:
+99 س 699 ایران 69

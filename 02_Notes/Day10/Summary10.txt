@@ -1,0 +1,20 @@
+Day 10 Summary
+در روز دهم برای اولین بار وارد معماری داخلی مدل SmolVLM شدیم.
+ابتدا مشخص شد که SmolVLM در واقع بر پایه معماری Idefics3ForConditionalGeneration ساخته شده است.
+سپس مدل به صورت مرحله‌به‌مرحله باز شد و ساختار آن استخراج گردید:
+Vision Encoder (vision_model)
+Projector (connector)
+Language Model (text_model)
+در ادامه ساختار داخلی Llama بررسی شد و مشخص گردید که هر Transformer Layer از چهار بخش اصلی تشکیل شده است:
+Input LayerNorm
+Self Attention
+Post Attention LayerNorm
+MLP
+در نهایت ساختار Self Attention نیز بررسی شد و چهار لایه اصلی آن شامل:
+q_proj
+k_proj
+v_proj
+o_proj
+استخراج گردید.
+نتیجه مهم این روز این بود که محل دقیق نصب LoRA روی مدل مشخص شد و مشخص شد که LoRA مستقیماً روی لایه‌های Attention اعمال می‌شود، نه روی کل مدل.
+از این نقطه به بعد پروژه آماده ورود به مرحله پیاده‌سازی عملی LoRA و آغاز فرآیند Fine-Tuning است.

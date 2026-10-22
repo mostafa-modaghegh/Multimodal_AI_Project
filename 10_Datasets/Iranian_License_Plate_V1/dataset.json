@@ -1,0 +1,1652 @@
+[
+  {
+    "image": "images/plate001.jpg",
+    "metadata": {
+      "vehicle": "KIA",
+      "plate_number": "28 و 149 ایران 66",
+      "color": "Red",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A red Kia car parked in an apartment building parking lot with a visible license plate."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "28 و 149 ایران 66"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Red"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A red Kia car parked in an apartment building parking lot with a visible license plate."
+      }
+    ]
+  },
+  {
+    "image": "images/plate002.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "plate_number": "94 ن 263 ایران 67",
+      "color": "Blue",
+      "plate_city": "Esfahan",
+      "plate_visible": true,
+      "description": "A blue Pride car viewed from the front and parked near a boulevard."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "94 ن 263 ایران 67"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Esfahan"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A blue Pride car viewed from the front and parked near a boulevard."
+      }
+    ]
+  },
+  {
+    "image": "images/plate003.jpg",
+    "metadata": {
+      "vehicle": "RIRA",
+      "plate_number": "92 س 819 ایران 72",
+      "color": "White",
+      "plate_city": "Mazandaran",
+      "plate_visible": true,
+      "description": "A white RIRA car parked in front of a house with another vehicle visible in the background."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "92 س 819 ایران 72"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Mazandaran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A white RIRA car parked in front of a house with another vehicle visible in the background."
+      }
+    ]
+  },
+  {
+    "image": "images/plate004.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "plate_number": "51 ق 485 ایران 40",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A white Pride car parked in a public parking lot with a visible license plate."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "51 ق 485 ایران 40"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A white Pride car parked in a public parking lot with a visible license plate."
+      }
+    ]
+  },
+  {
+    "image": "images/plate005.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "plate_number": "53 م 797 ایران 54",
+      "color": "White",
+      "plate_city": "Yazd",
+      "plate_visible": true,
+      "description": "A white Pride car parked on the side of a street."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "53 م 797 ایران 54"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Yazd"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A white Pride car parked on the side of a street."
+      }
+    ]
+  },
+  {
+    "image": "images/plate006.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "plate_number": "53 م 797 ایران 54",
+      "color": "White",
+      "plate_city": "Yazd",
+      "plate_visible": true,
+      "description": "A white car parked on the side of a street"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "53 م 797 ایران 54"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Yazd"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A white car parked on the side of a street"
+      }
+    ]
+  },
+  {
+    "image": "images/plate007.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "plate_number": "33 د 792 ایران 68",
+      "color": "White",
+      "plate_city": "Alborz",
+      "plate_visible": true,
+      "description": "A car parked in an alley"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "33 د 792 ایران 68"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Alborz"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked in an alley"
+      }
+    ]
+  },
+  {
+    "image": "images/plate008.jpg",
+    "metadata": {
+      "vehicle": "Jeep Wrangler",
+      "plate_number": "69 ص 766 ایران 59",
+      "color": "Blue",
+      "plate_city": "Golestan",
+      "plate_visible": true,
+      "description": "A car leaving a residential building."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "69 ص 766 ایران 59"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Golestan"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Blue"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car leaving a residential building."
+      }
+    ]
+  },
+  {
+    "image": "images/plate009.jpg",
+    "metadata": {
+      "vehicle": "KIA",
+      "plate_number": "95 د 978 ایران 33",
+      "color": "Black",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "View from the front of a parked car"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "95 د 978 ایران 33"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "View from the front of a parked car"
+      }
+    ]
+  },
+  {
+    "image": "images/plate010.jpg",
+    "metadata": {
+      "vehicle": "KIA",
+      "plate_number": "67 س 362 ایران 40",
+      "color": "Red",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "Rear view of a car parked in the yard of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "67 س 362 ایران 40"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Red"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car parked in the yard of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate011.jpg",
+    "metadata": {
+      "vehicle": "Buick",
+      "plate_number": "44 ل 874 ایران 67",
+      "color": "Purple",
+      "plate_city": "Esfahan",
+      "plate_visible": true,
+      "description": "View from the front of a parked car"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "44 ل 874 ایران 67"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Esfahan"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "View from the front of a parked car"
+      }
+    ]
+  },
+  {
+    "image": "images/plate012.jpg",
+    "metadata": {
+      "vehicle": "Peugeot",
+      "plate_number": "17 س 342 ایران 20",
+      "color": "Gray",
+      "plate_city": "ُTehran",
+      "plate_visible": true,
+      "description": "View from the front of a parked car"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "17 س 342 ایران 20"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "ُTehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "View from the front of a parked car"
+      }
+    ]
+  },
+  {
+    "image": "images/plate013.jpg",
+    "metadata": {
+      "vehicle": "Samand",
+      "plate_number": "67 ط 695 ایران 67",
+      "color": "White",
+      "plate_city": "Esfahan",
+      "plate_visible": true,
+      "description": "A car parked in the yard of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "67 ط 695 ایران 67"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Esfahan"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked in the yard of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate014.jpg",
+    "metadata": {
+      "vehicle": "405 GLX",
+      "plate_number": "95 ط 722 ایران 72",
+      "color": "Gray",
+      "plate_city": "Mazandaran",
+      "plate_visible": true,
+      "description": "Car on the side of a forest road from behind"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "95 ط 722 ایران 72"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Mazandaran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Car on the side of a forest road from behind"
+      }
+    ]
+  },
+  {
+    "image": "images/plate015.jpg",
+    "metadata": {
+      "vehicle": "405 GLX",
+      "plate_number": "95 ط 722 ایران 72",
+      "color": "Gray",
+      "plate_city": "Mazandaran",
+      "plate_visible": true,
+      "description": "Car on the side of a forest road from the front"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "95 ط 722 ایران 72"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Mazandaran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Car on the side of a forest road from the front"
+      }
+    ]
+  },
+  {
+    "image": "images/plate016.jpg",
+    "metadata": {
+      "vehicle": "Peugeot",
+      "plate_number": "21 ی 755 ایران 33",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A car parked in the yard of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "21 ی 755 ایران 33"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked in the yard of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate017.jpg",
+    "metadata": {
+      "vehicle": "Samand",
+      "plate_number": "37 ن 637 ایران 27",
+      "color": "Gray",
+      "plate_city": "Urmia",
+      "plate_visible": true,
+      "description": "A car parked in an alley"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "37 ن 637 ایران 27"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Urmia"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked in an alley"
+      }
+    ]
+  },
+  {
+    "image": "images/plate018.jpg",
+    "metadata": {
+      "vehicle": "405 GLX",
+      "plate_number": "96 س 147 ایران 21",
+      "color": "Gray",
+      "plate_city": "Alborz",
+      "plate_visible": true,
+      "description": "Front view of a car at a gas station"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "96 س 147 ایران 21"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Alborz"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Front view of a car at a gas station"
+      }
+    ]
+  },
+  {
+    "image": "images/plate019.jpg",
+    "metadata": {
+      "vehicle": "Corolla",
+      "plate_number": "11 ل 933 ایران 67",
+      "color": "Gray",
+      "plate_city": "Esfahan",
+      "plate_visible": true,
+      "description": "Car parked on the side of a snowy road."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "11 ل 933 ایران 67"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Esfahan"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Car parked on the side of a snowy road."
+      }
+    ]
+  },
+  {
+    "image": "images/plate020.jpg",
+    "metadata": {
+      "vehicle": "Hyunday",
+      "plate_number": "57 د 263 ایران 30",
+      "color": "Black",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A car parked in the yard of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "57 د 263 ایران 30"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked in the yard of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate021.jpg",
+    "metadata": {
+      "vehicle": "Peugeot",
+      "plate_number": "14 ق 569 ایران 10",
+      "color": "Black",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "Rear view of a car parked in the parking of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "14 ق 569 ایران 10"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car parked in the parking of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate022.jpg",
+    "metadata": {
+      "vehicle": "Tara",
+      "plate_number": "79 س 369 ایران 48",
+      "color": "White",
+      "plate_city": "Boshehr",
+      "plate_visible": true,
+      "description": "A car parked on the street at night."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "79 س 369 ایران 48"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Boshehr"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked on the street at night."
+      }
+    ]
+  },
+  {
+    "image": "images/plate023.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "plate_number": "45 ن 533 ایران 77",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A car parked on a snowy road at night."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "45 ن 533 ایران 77"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked on a snowy road at night."
+      }
+    ]
+  },
+  {
+    "image": "images/plate024.jpg",
+    "metadata": {
+      "vehicle": "Rana",
+      "plate_number": "14 ق 723 ایران 40",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A car parked in an alley"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "14 ق 723 ایران 40"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked in an alley"
+      }
+    ]
+  },
+  {
+    "image": "images/plate025.jpg",
+    "metadata": {
+      "vehicle": "Reno",
+      "plate_number": "84 ق 938 ایران 99",
+      "color": "Gray",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "Front view of a car."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "84 ق 938 ایران 99"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Gray"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Front view of a car."
+      }
+    ]
+  },
+  {
+    "image": "images/plate026.jpg",
+    "metadata": {
+      "vehicle": "Dena",
+      "plate_number": "36 ص 247 ایران 38",
+      "color": "White",
+      "plate_city": "Alborz",
+      "plate_visible": true,
+      "description": "Rear view of a car parked in the parking of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "36 ص 247 ایران 38"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Alborz"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car parked in the parking of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate027.jpg",
+    "metadata": {
+      "vehicle": "Peugeot 2008",
+      "plate_number": "92 ب 686 ایران 10",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A car leaving a residential building."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "92 ب 686 ایران 10"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car leaving a residential building."
+      }
+    ]
+  },
+  {
+    "image": "images/plate028.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "plate_number": "65 ط 742 ایران 15",
+      "color": "Black",
+      "plate_city": "Tabriz",
+      "plate_visible": true,
+      "description": "Rear view of a car parked in the yard of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "65 ط 742 ایران 15"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tabriz"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car parked in the yard of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate029.jpg",
+    "metadata": {
+      "vehicle": "Peugeot",
+      "plate_number": "87 ب 934 ایران 56",
+      "color": "Silver",
+      "plate_city": "Gilan",
+      "plate_visible": true,
+      "description": "A car parked on the street at night."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "87 ب 934 ایران 56"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Gilan"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked on the street at night."
+      }
+    ]
+  },
+  {
+    "image": "images/plate030.jpg",
+    "metadata": {
+      "vehicle": "Chery",
+      "plate_number": "48 ص 454 ایران 44",
+      "color": "Black",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "Rear view of a car parked next to a tree"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "48 ص 454 ایران 44"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car parked next to a tree"
+      }
+    ]
+  },
+  {
+    "image": "images/plate031.jpg",
+    "metadata": {
+      "vehicle": "Peugeot 206",
+      "plate_number": "64 ج 843 ایران 69",
+      "color": "White",
+      "plate_city": "Golestan",
+      "plate_visible": true,
+      "description": "A car parked in an alley"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "64 ج 843 ایران 69"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Golestan"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked in an alley"
+      }
+    ]
+  },
+  {
+    "image": "images/plate032.jpg",
+    "metadata": {
+      "vehicle": "Saina",
+      "plate_number": "23 و 685 ایران 21",
+      "color": "White",
+      "plate_city": "Alborz",
+      "plate_visible": true,
+      "description": "Rear view of a car parked in the yard of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "23 و 685 ایران 21"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Alborz"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car parked in the yard of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate033.jpg",
+    "metadata": {
+      "vehicle": "Peugeot 206",
+      "plate_number": "71 س 157 ایران 68",
+      "color": "White",
+      "plate_city": "Alborz",
+      "plate_visible": true,
+      "description": "A car parked in an alley"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "71 س 157 ایران 68"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Alborz"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked in an alley"
+      }
+    ]
+  },
+  {
+    "image": "images/plate034.jpg",
+    "metadata": {
+      "vehicle": "Hyunday",
+      "plate_number": "31 م 825 ایران 99",
+      "color": "Black",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A car parked on the street at day."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "31 م 825 ایران 99"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Black"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked on the street at day."
+      }
+    ]
+  },
+  {
+    "image": "images/plate035.jpg",
+    "metadata": {
+      "vehicle": "KIA",
+      "plate_number": "29 ط 673 ایران 18",
+      "color": "White",
+      "plate_city": "Hamedan",
+      "plate_visible": true,
+      "description": "Front view of a car parked in the parking of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "29 ط 673 ایران 18"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Hamedan"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Front view of a car parked in the parking of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate036.jpg",
+    "metadata": {
+      "vehicle": "Peugeot 2008",
+      "plate_number": "61 ی 835 ایران 13",
+      "color": "Silver",
+      "plate_city": "Esfahan",
+      "plate_visible": true,
+      "description": "Front view of a car parked in the parking of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "61 ی 835 ایران 13"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Esfahan"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Front view of a car parked in the parking of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate037.jpg",
+    "metadata": {
+      "vehicle": "Iran Khodro",
+      "plate_number": "59 ی 968 ایران 38",
+      "color": "White",
+      "plate_city": "Alborz",
+      "plate_visible": true,
+      "description": "A car parked with open doors."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "59 ی 968 ایران 38"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Alborz"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked with open doors."
+      }
+    ]
+  },
+  {
+    "image": "images/plate038.jpg",
+    "metadata": {
+      "vehicle": "Soren",
+      "plate_number": "92 ل 441 ایران 10",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A car parked in an alley"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "92 ل 441 ایران 10"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked in an alley"
+      }
+    ]
+  },
+  {
+    "image": "images/plate039.jpg",
+    "metadata": {
+      "vehicle": "Pride",
+      "plate_number": "15 م 362 ایران 38",
+      "color": "Silver",
+      "plate_city": "Alborz",
+      "plate_visible": true,
+      "description": "A car parked on the street at day."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "15 م 362 ایران 38"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Alborz"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked on the street at day."
+      }
+    ]
+  },
+  {
+    "image": "images/plate040.jpg",
+    "metadata": {
+      "vehicle": "KIA",
+      "plate_number": "72 ه 761 ایران 55",
+      "color": "Purple",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "Rear view of a car parked in the parking of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "72 ه 761 ایران 55"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Purple"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car parked in the parking of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate041.jpg",
+    "metadata": {
+      "vehicle": "Peugeot 206",
+      "plate_number": "94 و 548 ایران 38",
+      "color": "White",
+      "plate_city": "Alborz",
+      "plate_visible": true,
+      "description": "A car parked on the street at night."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "94 و 548 ایران 38"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Alborz"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked on the street at night."
+      }
+    ]
+  },
+  {
+    "image": "images/plate042.jpg",
+    "metadata": {
+      "vehicle": "Tiba",
+      "plate_number": "76 د 423 ایران 66",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A white car parked in front of a house in alley."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "76 د 423 ایران 66"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A white car parked in front of a house in alley"
+      }
+    ]
+  },
+  {
+    "image": "images/plate043.jpg",
+    "metadata": {
+      "vehicle": "Peugeot 405",
+      "plate_number": "22 ن 855 ایران 99",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "Rear view of a car parked in the parking."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "22 ن 855 ایران 99"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car parked in the parking."
+      }
+    ]
+  },
+  {
+    "image": "images/plate044.jpg",
+    "metadata": {
+      "vehicle": "Mercedes CLI",
+      "plate_number": "37 ه 448 ایران 11",
+      "color": "Red",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "Rear view of a car"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "37 ه 448 ایران 11"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Red"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car"
+      }
+    ]
+  },
+  {
+    "image": "images/plate045.jpg",
+    "metadata": {
+      "vehicle": "MVM",
+      "plate_number": "85 س 414 ایران 20",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "Front view of a car parked in the parking of a house"
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "85 س 414 ایران 20"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Front view of a car parked in the parking of a house"
+      }
+    ]
+  },
+  {
+    "image": "images/plate046.jpg",
+    "metadata": {
+      "vehicle": "Peugeot",
+      "plate_number": "18 س 619 ایران 91",
+      "color": "White",
+      "plate_city": "Ardebil",
+      "plate_visible": true,
+      "description": "A car parked on the street at day."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "18 س 619 ایران 91"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Ardebil"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked on the street at day."
+      }
+    ]
+  },
+  {
+    "image": "images/plate047.jpg",
+    "metadata": {
+      "vehicle": "Dena",
+      "plate_number": "43 ن 816 ایران 99",
+      "color": "White",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "Rear view of a car parked in the parking."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "43 ن 816 ایران 99"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "White"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "Rear view of a car parked in the parking."
+      }
+    ]
+  },
+  {
+    "image": "images/plate048.jpg",
+    "metadata": {
+      "vehicle": "Peugeot 405",
+      "plate_number": "99 ط 282 ایران 22",
+      "color": "Silver",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A car moving on a street with other cars and a pedestrian bridge visible."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "99 ط 282 ایران 22"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car moving on a street with other cars and a pedestrian bridge visible."
+      }
+    ]
+  },
+  {
+    "image": "images/plate049.jpg",
+    "metadata": {
+      "vehicle": "Patrol",
+      "plate_number": "62 ج 899 ایران 45",
+      "color": "Yellow",
+      "plate_city": "Kerman",
+      "plate_visible": true,
+      "description": "A car parked on the street at day."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "62 ج 899 ایران 45"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Kerman"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Yellow"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked on the street at day."
+      }
+    ]
+  },
+  {
+    "image": "images/plate050.jpg",
+    "metadata": {
+      "vehicle": "Peugeot 405",
+      "plate_number": "49 ه 878 ایران 44",
+      "color": "Silver",
+      "plate_city": "Tehran",
+      "plate_visible": true,
+      "description": "A car parked on the street at day."
+    },
+    "conversations": [
+      {
+        "question": "Read the license plate number.",
+        "answer": "49 ه 878 ایران 44"
+      },
+      {
+        "question": "Is there a visible license plate in this image?",
+        "answer": "Yes."
+      },
+      {
+        "question": "Which city does this license plate belong to?",
+        "answer": "Tehran"
+      },
+      {
+        "question": "What is the color of the vehicle?",
+        "answer": "Silver"
+      },
+      {
+        "question": "Describe this image.",
+        "answer": "A car parked on the street at day."
+      }
+    ]
+  }
+]
